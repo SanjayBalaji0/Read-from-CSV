@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-
+To read the csv file.
 ## ALGORITHM:
 ### Step 1:
 Import pandas as pd.
